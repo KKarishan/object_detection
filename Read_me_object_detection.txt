@@ -9,7 +9,7 @@ lxml
 Jupyter notebook
 Matplotlib
 Tensorflow (>=1.12.0)
-Cython
+Python
 contextlib2
 cocoapi
 
